@@ -1,6 +1,6 @@
-QA Automation Project – SauceDemo
+#QA Automation Project – SauceDemo
 
-📌 Overview
+##📌 Overview
 This project demonstrates structured manual and automated testing of the SauceDemo e-commerce application.
 
 The goal was to validate core user workflows and automate high-priority scenarios using Selenium and Pytest.
