@@ -1,0 +1,29 @@
+# QA Automation Project – SauceDemo
+
+## Overview
+This project demonstrates manual and automated testing of the SauceDemo e-commerce application.
+
+## Manual Testing
+- Designed 30+ functional test cases (Login, Cart, Checkout)
+- Executed all test cases
+- Identified and documented 1 business logic defect (checkout allowed with empty cart)
+
+## Automation Testing
+Automated core workflows using:
+- Selenium WebDriver
+- Pytest
+- WebDriverWait (Explicit Waits)
+
+### Automated Scenarios:
+- Valid Login
+- Invalid Login
+- Add Item to Cart
+- Complete Checkout Flow
+
+## Tech Stack
+- Python
+- Selenium
+- Pytest
+- ChromeDriver Manager
+
+## How to Run
